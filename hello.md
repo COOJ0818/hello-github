@@ -13,3 +13,5 @@
 - 소스트리의 체크아웃 : 브랜치 이름을 더블 클릭하여 돌아간다.
 - branch : branch 생성 명령어
 - checkout : git branch 변경
+
+# 브랜치 테스트 종료
