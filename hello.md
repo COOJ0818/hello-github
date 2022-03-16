@@ -6,3 +6,7 @@
 - add : 스테이지 영역에 작업 파일 추가
 - commit : 세이브, 스테이지 영역의 파일들을 가지고 커밋(=세이브)를 만들 수 있다.
 - push : 원격저장소에 스테이지 영역에 있는 데이터를 저장 할 수 있다.
+
+## branch
+- branch : branch 생성 명령어
+- checkout : git branch 변경
